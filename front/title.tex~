@@ -1,0 +1,17 @@
+\begin{titlepage}
+\center
+\Large Lineare Algebra und Geometrie 1 WS 12-13\large \\[2em]
+Dozent:\\Dr. Cynthia Hog-Angeloni\\[2em]
+Mitschrift von:\\Sven Bamberger, Bernadette Mohr, Sahra Schreyer\\[2em]
+\LaTeX{arbeit} von:\\Sven Bamberger, Bernadette Mohr\\[2em]
+Zuletzt Aktualisiert:\\\today\\
+\includegraphics[scale=.2]{front/pics/Logo.jpg}\\\quad\\
+\Large \textbf{Zusammenfassung:}\\[1em]
+\parbox{0.75\textwidth}{\large
+Bei der Lineare Algebra und Geometrie\\
+http://www.mathematik.uni-mainz.de/Members/dhanke/linearealgebrai2012/lineare-algebra-und-geometrie-i-im-ws-2012-13\
+\textbf{Raum:} Mo S1 \& Fr S1\\
+\textbf{Uhrzeit:} 08:00-10:00 \& 12:00-14:00\\
+\textbf{Abgabe:} Freitag 12:00\\
+}
+\end{titlepage}

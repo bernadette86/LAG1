@@ -1,2 +1,7 @@
 \select@language {ngerman}
-\select@language {ngerman}
+\contentsline {chapter}{\numberline {0}Grundbegriffe}{1}
+\contentsline {section}{\numberline {0.1}Aussagen}{1}
+\contentsline {subsection}{\numberline {0.1.1}Satz:}{1}
+\contentsline {section}{\numberline {0.2}Mengen}{2}
+\contentsline {subsection}{\numberline {0.2.1}Definition: (Cantor)}{2}
+\contentsline {subsection}{\numberline {0.2.2}Definition:}{2}
