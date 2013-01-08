@@ -5,3 +5,8 @@
 \contentsline {section}{\numberline {0.2}Mengen}{2}
 \contentsline {subsection}{\numberline {0.2.1}Definition: (Cantor)}{2}
 \contentsline {subsection}{\numberline {0.2.2}Definition:}{2}
+\contentsline {subsection}{\numberline {0.2.3}Definition: (von weiteren Operationen auf Mengen)}{3}
+\contentsline {subsection}{\numberline {0.2.4}Definition: (Relation)}{3}
+\contentsline {subsection}{\numberline {0.2.5}Definition: (Funktion, $\sim $Abbildung)}{4}
+\contentsline {subsection}{\numberline {0.2.6}Definition: (injektiv, surjektiv, bijektiv)}{4}
+\contentsline {chapter}{\numberline {1}Der Raum $\mathbb {R}^{2}$}{7}

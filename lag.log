@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.12.27)  5 JAN 2013 12:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.12.27)  8 JAN 2013 10:17
 entering extended mode
  %&-line parsing enabled.
 **lag.tex
@@ -1107,6 +1107,9 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 Class scrbook Info: You've told me to use the font selection of the element
 (scrbook)           `sectioning' that is an alias of element `disposition'
 (scrbook)            on input line 2.
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 12.
 )
 \tf@toc=\write5
 \openout5 = `lag.toc'.
@@ -1137,59 +1140,107 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--53
 [1
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 65--69
+]) (./mainmatter/chapter0/mengen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 65--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<mainmatter/chapter0/pics/menge.png, id=43, 578.16pt x 495.8525pt>
+<mainmatter/chapter0/pics/menge.png, id=45, 578.16pt x 495.8525pt>
 File: mainmatter/chapter0/pics/menge.png Graphic file (type png)
 
-<use mainmatter/chapter0/pics/menge.png>)) [2 <./mainmatter/chapter0/pics/menge
-.png>] (./backmatter/listoffigures.tex (./lag.lof)
+<use mainmatter/chapter0/pics/menge.png>
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+[2 <./mainmatter/chapter0/pics/menge.png>]
+<mainmatter/chapter0/pics/durchschnitt.png, id=56, 1313.90875pt x 1128.215pt>
+File: mainmatter/chapter0/pics/durchschnitt.png Graphic file (type png)
+
+<use mainmatter/chapter0/pics/durchschnitt.png>
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+[3 <./mainmatter/chapter0/pics/durchschnitt.png>]
+<mainmatter/chapter0/pics/graphenkreis.png, id=61, 813.0375pt x 697.60625pt>
+File: mainmatter/chapter0/pics/graphenkreis.png Graphic file (type png)
+
+<use mainmatter/chapter0/pics/graphenkreis.png>
+Underfull \hbox (badness 10000) in paragraph at lines 85--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
+
+ []
+
+<mainmatter/chapter0/pics/abbildungen.jpg, id=62, 603.25375pt x 442.65375pt>
+File: mainmatter/chapter0/pics/abbildungen.jpg Graphic file (type jpg)
+
+<use mainmatter/chapter0/pics/abbildungen.jpg>) [4 <./mainmatter/chapter0/pics/
+graphenkreis.png>]) (./mainmatter/chapter_1.tex [5 <./mainmatter/chapter0/pics/
+abbildungen.jpg>] [6
+
+
+]
+Kapitel 1.
+) [7] [8
+
+
+] (./backmatter/listoffigures.tex (./lag.lof)
 \tf@lof=\write6
 \openout6 = `lag.lof'.
 
-) [3
-
-
+) [9
 
 
 ] (./lag.aux) ) 
 Here is how much of TeX's memory you used:
- 23295 strings out of 493857
- 431710 string characters out of 1153304
+ 23342 strings out of 493857
+ 432944 string characters out of 1153304
  540139 words of memory out of 3000000
- 26043 multiletter control sequences out of 15000+50000
- 34338 words of font info for 105 fonts, out of 3000000 for 9000
+ 26079 multiletter control sequences out of 15000+50000
+ 37902 words of font info for 118 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  61i,8n,61p,413b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600
-pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk>{/usr/sha
-re/texmf-texlive/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} </home/sven/.texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk>{/usr/share/texmf-texlive/fonts/enc
-/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf-texlive/fonts/enc/dvips/mnsymbo
-l/MnSymbolC.enc}{/usr/share/texmf-texlive/fonts/enc/dvips/mnsymbol/MnSymbolA.en
-c} </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/sv
-en/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/sven/.texmf-va
-r/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </home/sven/.texmf-var/fonts/pk/l
-jfour/jknappen/ec/ecrm1000.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknapp
-en/ec/ecbx1200.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx14
-40.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </
-home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/sven/.t
-exmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk></usr/share/texmf-texlive/f
-onts/type1/public/mnsymbol/MnSymbol10.pfb></usr/share/texmf-texlive/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
-fonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on lag.pdf (9 pages, 209629 bytes).
+ </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
+pk>{/usr/share/texmf-texlive/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/share
+/texmf-texlive/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/sven/.texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/sven/.texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecsl1000.600pk>{/usr/share/texmf-texlive/fonts/enc/dvips/mnsymbo
+l/MnSymbolE.enc} </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.60
+0pk>{/usr/share/texmf-texlive/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} </home/sv
+en/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/sven/.texmf-va
+r/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/sven/.texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecsx2074.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknapp
+en/ec/ecrm1000.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx12
+00.600pk> </home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </
+home/sven/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/sven/.t
+exmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/sven/.texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1440.600pk></usr/share/texmf-texlive/fonts/type1/p
+ublic/mnsymbol/MnSymbol10.pfb></usr/share/texmf-texlive/fonts/type1/public/mnsy
+mbol/MnSymbol12.pfb></usr/share/texmf-texlive/fonts/type1/public/mnsymbol/MnSym
+bol7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/symbols/msbm10.pfb>
+Output written on lag.pdf (15 pages, 389052 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
+ 492 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
