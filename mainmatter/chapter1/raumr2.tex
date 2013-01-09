@@ -1,0 +1,49 @@
+%
+%
+%
+\subsection{Definition:}
+Ein Vektor $a= \begin{pmatrix} a_{1}\\  a_{2} \end{pmatrix}$ ist ein Element von $\mathbb{R}^{2}$.\\
+Entspringt der Vektor in $\begin{pmatrix} 0 \\ 0 \end{pmatrix}$ = "`Ortsvektor "'.\\
+%
+%
+%Bild von Vektoren einfügen.
+%
+%
+Addition: $\begin{pmatrix}a_{1} \\ a_{2} \end{pmatrix} + \begin{pmatrix} b_{1} \\ b_{2} \end{pmatrix} = \begin{pmatrix} a_{1}+b_{1} \\ a_{2}+b_{2} \end{pmatrix} $\\
+Multiplikation mit Skalar: $\lambda \cdot \begin{pmatrix} a_{1} \\ a_{2} \end{pmatrix} = \begin{pmatrix} \lambda a_{1} \\ \lambda a_{2} \end{pmatrix}$\\
+Eigenschaften: $a,b,c$ Vektoren $\lambda, \mu $ reele Zahlen
+\begin{enumerate}
+\item $\lambda \cdot (a+b) = \lambda a + \lambda b$
+\item $(\lambda + \mu) a = \lambda a + \mu a$
+\item $(a+b)+c=a+(b+c)$
+\item $a+b = b+a$
+\end{enumerate}
+exemplarischer Beweis:\\
+$(\lambda +\mu) a = (\lambda + \mu)\begin{pmatrix}a_{1} \\ a_{2} \end{pmatrix} = \begin{pmatrix} (\lambda + \mu)  a_{1} \\ (\lambda + \mu)  a_{2}\end{pmatrix}=\begin{pmatrix}\lambda  a_{1}+\mu a_{1} \\ \lambda  a_{2} + \mu  a_{2} \end{pmatrix}=\begin{pmatrix} \lambda  a_{1} \\ \lambda  a_{2}\end{pmatrix} + \begin{pmatrix} \mu  a_{1} \\ \mu  a_{2}\end{pmatrix} = \lambda  \begin{pmatrix}a_{1} \\ a_{2}\end{pmatrix} + \mu \begin{pmatrix}a_{1} \\ a_{2}\end{pmatrix} =\lambda a + \mu a$
+%
+%
+%
+\subsection{Definition: (Basis)}
+ein Paar von Vektoren $B=(a,b)$ heißt Basis von $\mathbb{R}^{2}$, wenn es für \underline{jeden Vektor} $c$ in $\mathbb{R}^{2}$ genau \underline{ein Paar $(x,y)$} von Zahlen gibt, sodass $c=x\cdot a + y \cdot b$. \\
+$x$ und $y$ heißen Koordinaten von $c$ bzgl. $b$.\\
+Die Basis $\mathcal{E}=(e_{1},e_{2}) \qquad e_{1}=\begin{pmatrix} 0 \\ 1 \end{pmatrix}, \quad e_{2} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}$\\
+\underline{Beispiel: }\\
+\begin{equation*}
+a = \begin{pmatrix} 2 \\ -1 \end{pmatrix} \qquad b = \begin{pmatrix} -1 \\ 2 \end{pmatrix} \qquad c =\begin{pmatrix} 1 \\ -1 \end{pmatrix}
+\end{equation*}\\
+\begin{equation*}
+\begin{pmatrix} 1 \\ -1\end{pmatrix} = \frac{1}{3} \begin{pmatrix} 2 \\ -1 \end{pmatrix} - \frac{1}{3} \begin{pmatrix} 1 \\ 2 \end{pmatrix} \quad \checkmark^{\textrm{kanonische Basis}}
+\end{equation*}
+%
+%
+% Graphenbild einfügen für das Beispiel
+%
+%
+\subsection{Definition: (Determinante)}
+$det(a,b) = \begin{vmatrix} a_{1} & b_{1} \\ a_{2} & b_{2} \end{vmatrix}=a_{1}b_{2}-a_{2}b_{1}$
+%
+%
+%
+%
+%
+%

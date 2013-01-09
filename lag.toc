@@ -10,3 +10,17 @@
 \contentsline {subsection}{\numberline {0.2.5}Definition: (Funktion, $\sim $Abbildung)}{4}
 \contentsline {subsection}{\numberline {0.2.6}Definition: (injektiv, surjektiv, bijektiv)}{4}
 \contentsline {chapter}{\numberline {1}Der Raum $\mathbb {R}^{2}$}{7}
+\contentsline {subsection}{\numberline {1.0.7}Definition:}{7}
+\contentsline {subsection}{\numberline {1.0.8}Definition: (Basis)}{7}
+\contentsline {subsection}{\numberline {1.0.9}Definition: (Determinante)}{7}
+\contentsline {section}{\numberline {1.1}Cramersche Regel}{8}
+\contentsline {subsubsection}{Beweis: }{8}
+\contentsline {subsubsection}{Kollar:}{8}
+\contentsline {subsubsection}{Kollar:}{8}
+\contentsline {section}{\numberline {1.2}Geraden}{8}
+\contentsline {subsection}{\numberline {1.2.1}Definition: (Gerade)}{8}
+\contentsline {subsubsection}{Beispiel: }{8}
+\contentsline {subsection}{\numberline {1.2.2}Satz 1.2}{8}
+\contentsline {subsubsection}{Beweis:}{9}
+\contentsline {subsubsection}{Beispiel:}{9}
+\contentsline {section}{\numberline {1.3}Lineare Abbildungen}{9}

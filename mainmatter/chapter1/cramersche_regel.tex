@@ -1,0 +1,39 @@
+\section{Cramersche Regel}
+Das Gleichungssystem $xa+yb=c$ hat die eindeutige Lösung $x = \frac{det(c,b)}{det(a,b)} \Leftrightarrow det(a,b) \neq 0$.
+%
+%
+%
+\subsubsection{Beweis: }
+$"`\Rightarrow "' \qquad \checkmark$\\
+$"`\Leftarrow "'$ Sei $det(a,b) \neq 0$.\\
+$ \left\{
+  \begin{array}{l l}
+    a_{1}x + b_{1}y = c_{1} \\
+    a_{2}x + b_{2}y = c_{2}
+  \end{array} \right.$
+=
+$\left\{
+\begin{array}{l l}
+a_{1}b_{2}x+b_{1}b_{2}y=c_{1}b_{2} \\
+\underline{ a_{2}b_{1}x+b_{1}b_{2}y=c_{2}b_{1} }
+\end{array} \right.$\\
+.\qquad\qquad\qquad\qquad\qquad $x ~ det(a,b)  = det(c,b)$\\
+$\Rightarrow x = \frac{det(c,b)}{(a,b)}$\\
+\quad\\
+analog $y=\frac{det(a,c)}{det(a,b)} \Rightarrow$ Eindeutigkeit\\
+\quad\\
+Existenz: $a_{1} \frac{det(c,b)}{det(a,b)} + b_{1} \frac{det(a,c)}{det(a,b)} = c_{1}$\\
+\quad\\
+$\Leftrightarrow a_{1}(c_{1}b_{2}-c_{2}b_{1})+b_{1}(a_{1}c_{2}-a_{2}c_{1})=c_{1} det(a,b)$\\
+$\Leftrightarrow a_{1}c_{1}b_{2} - b_{1}a_{2}c_{1} = c_{1}(a_{1}b_{2}-a_{2}b_{1})$\\
+$\Leftrightarrow 0 = 0$ (w)
+%
+%
+%
+\subsubsection{Kollar:}
+$B=(a,b)$ ist Basis genau dann, wenn $det(a,b) \neq 0$ ist $det(a,b)=0$ und $(x,y)$ Lösung, so auch $(x+\lambda b_{2}, y-\lambda a_{2}$ denn $a_{1}(x+\lambda b_{2})+b_{1}(y-\lambda a_{2})=\mathop{\underbrace{a_{1}x+b_{1}y}}\limits_{c}+\lambda\mathop{\underbrace{(a_{1} b_{2}-b_{1}a_{2})}}\limits_{0}$
+%
+%
+%
+\subsubsection{Kollar:}
+$det(a,b)=0 \Rightarrow$ Es gibt entweder keine oder unendliche viele Lösungen.
