@@ -1,0 +1,19 @@
+\section{Inverse Matrix, Basiswechsel}
+Ist $A=\begin{pmatrix}a_{1} & b_{1} \\ a_{2} b_{2} \end{pmatrix}$ und $\lambda \in \mathbb{R}: \ \lambda \cdot A = \begin{pmatrix} \lambda a_{1} & \lambda b_{1} \\ \lambda a_{2} & \lambda b_{2} \end{pmatrix}$\\
+%
+%
+%
+\subsubsection{Satz:}
+Für $A=\begin{pmatrix}a_{1} & b_{1} \\ a_{2} b_{2} \end{pmatrix}$ mit $det(A) \neq 0$ gilt:\\
+$A^{-1} = \frac{1}{det(a)} \cdot \begin{pmatrix} b_{2} & -b_{1} \\ -a_{2} & a_{1} \end{pmatrix}$
+%
+%
+%
+\subsubsection{Beweis:}
+$A\cdot A^{-1} = \begin{pmatrix}a_{1} & b_{1} \\ a_{2} b_{2} \end{pmatrix} \cdot \frac{1}{det(a)} \cdot \begin{pmatrix} b_{2} & -b_{1} \\ -a_{2} & a_{1} \end{pmatrix}$\\
+$ = \frac{1}{det(a)} \cdot \begin{pmatrix} det(A) & 0 \\ 0 & det(A) \end{pmatrix}$\\
+$= \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$\\
+$A^{-1}\cdot A$ analog $\Rightarrow A^{-1} \cdot A = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ \\
+$\mathcal{B} = (\vec{b_{1}}, \vec{b_{2}})$ Basis $ \leadsto \begin{pmatrix} b_{11} & b_{21} \\ b_{12} & b_{22} \end{pmatrix} = B$\\
+$\vec{a} = x_{1}\vec{b_{1}} = B\vec{x} : \vec{x} = B^{-1}\vec{a}$\\
+Die Koordinaten von $a$ bzgl. $B$ sind durch $B^{-1}(\vec{a})$ gegeben.

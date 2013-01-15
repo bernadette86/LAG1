@@ -24,3 +24,13 @@
 \contentsline {subsubsection}{Beweis:}{9}
 \contentsline {subsubsection}{Beispiel:}{9}
 \contentsline {section}{\numberline {1.3}Lineare Abbildungen}{9}
+\contentsline {subsubsection}{Beispiel: }{9}
+\contentsline {subsubsection}{Satz: }{9}
+\contentsline {subsubsection}{Beweis:}{9}
+\contentsline {subsubsection}{Satz:}{10}
+\contentsline {subsubsection}{Beweis:}{10}
+\contentsline {subsubsection}{Satz:}{10}
+\contentsline {subsubsection}{Beweis:}{10}
+\contentsline {section}{\numberline {1.4}Inverse Matrix, Basiswechsel}{10}
+\contentsline {subsubsection}{Satz:}{10}
+\contentsline {subsubsection}{Beweis:}{11}
